@@ -1,0 +1,11 @@
+﻿  BlockWin.cpp
+D:\script\BlockWin\BlockWin\BlockWin.cpp(1,9): warning C4005: UNICODE: изменение макроопределения
+      D:\script\BlockWin\BlockWin\BlockWin.cpp(1,9):
+      "UNICODE" ранее объявлен в командной строке
+  
+D:\script\BlockWin\BlockWin\BlockWin.cpp(2,9): warning C4005: _UNICODE: изменение макроопределения
+      D:\script\BlockWin\BlockWin\BlockWin.cpp(2,9):
+      "_UNICODE" ранее объявлен в командной строке
+  
+D:\script\BlockWin\BlockWin\BlockWin.cpp(698,73): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+  BlockWin.vcxproj -> D:\script\BlockWin\x64\Debug\BlockWin.exe
